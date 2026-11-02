@@ -22,9 +22,8 @@ A simple and responsive Weather Dashboard that allows users to check the live we
 ## APIs Used
 - Geocoding API: https://geocoding-api.open-meteo.com/
 - Weather Forecast API: https://api.open-meteo.com/
-
-## Live Demo
-https://nithyagovindasamy07-hub.github.io/weather-dashboard/
+Live website
+https://nithyagovindasamy07-hub.github.io/Weather-Dashboard/
 
 ## GitHub Repository
 https://github.com/nithyagovindasamy07-hub/weather-dashboard
